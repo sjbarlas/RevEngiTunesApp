@@ -1,4 +1,4 @@
- ![alt text](http://i.imgur.com/NrNRvNP.gif "cmd")
+<center>![alt text](http://i.imgur.com/NrNRvNP.gif "cmd")</center>
 
 *// Accessing the tools*
 <code>cd C:\dev\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\
