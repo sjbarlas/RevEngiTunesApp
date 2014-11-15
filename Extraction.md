@@ -1,5 +1,5 @@
 *// Accessing the tools*
-<code>cd C:\dev\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\</code>
+<code>cd C:\dev\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\
 
 
 *// Creating a shell on the phone*
