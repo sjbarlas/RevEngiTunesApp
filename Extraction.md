@@ -14,11 +14,15 @@
 <code>exit</code>
 
 
-*// Back to windows, ADB pull is used to download the text file*
+*// Back to windows, ADB pull is used to download that text file*
 <code>adb pull /sdcard1/apps.txt</code>
 
 
-*// APK file for app needed, especially the id so the installation file can be downloaded eg. https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en has the id:* __com.cloudninestudios.tmc__ 
+*// Location of the APK file for an app. which is needed to download the installation file for eg. https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en has the id:* __com.cloudninestudios.tmc__ 
 
-*// Ctrl+f on apps.txt to find: package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc*
-<code></code>
+
+*// Ctrl+F on apps.txt to find:* __package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc__
+
+
+*// This means __package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc__ is the APK installation file needed to install the Android app. with package name of "com.cloudninestudios.tmc", which is:
+https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en*
