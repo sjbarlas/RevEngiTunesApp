@@ -24,5 +24,5 @@
 *// Ctrl+F on apps.txt to find:* __package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc__
 
 
-*// This means __package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc__ is the APK installation file needed to install the Android app. with package name of "com.cloudninestudios.tmc", which is:
+*// This means* __package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc__ *is the APK installation file needed to install the Android app. with package name of* __"com.cloudninestudios.tmc"__*, which is:
 https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en*
