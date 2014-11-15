@@ -18,5 +18,5 @@
 <code>adb pull /sdcard1/apps.txt</code>
 
 
-*// APK file for app needed, especially the id so the installation file can be downloaded eg. https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en has the id: <u>com.cloudninestudios.tm</u>, cntrl+f on apps.txt to find: package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc*
+*// APK file for app needed, especially the id so the installation file can be downloaded eg. https://play.google.com/store/apps/details?id=com.cloudninestudios.tmc&hl=en has the id: **com.cloudninestudios.tmc**, cntrl+f on apps.txt to find: package:/data/app/com.cloudninestudios.tmc-1.apk=com.cloudninestudios.tmc*
 <code></code>
