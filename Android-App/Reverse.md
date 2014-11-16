@@ -1,5 +1,5 @@
 // New cmd session
-<code>cd \dev\reverse\</code>
+<code>cd \dev\reverse\
 
 
 // This extracts all possible assests from the APK file
