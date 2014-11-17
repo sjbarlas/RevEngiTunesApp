@@ -9,7 +9,7 @@ Once we know the artist ID, we should be able to reliably figure out the artist'
 
 We can also work out the artist ID based on our iTunes RSS/XML/JSON, eg: Taylor Swift's ID is here:
 http://itunes.apple.com/us/rss/topsongs/limit=100/xml
-<im:artist href="https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2">Taylor Swift</im:artist>
+<code><im:artist href="https://itunes.apple.com/us/artist/taylor-swift/id159260351?uo=2">Taylor Swift</im:artist></code>
 
 ===
 
