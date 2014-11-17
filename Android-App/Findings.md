@@ -1,6 +1,4 @@
-I can work out the artist ID by querying the artist's name, based on what iTunes' RSS/XML/JSON feed noted, eg: "MF DOOM" would result in a query of:
-
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/search?submit=edit&term=mf%20doom
+I can work out the artist ID by querying the artist's name, based on what iTunes' RSS/XML/JSON feed noted, eg: "MF DOOM" would result in a query of: ttps://itunes.apple.com/WebObjects/MZStore.woa/wa/search?submit=edit&term=mf%20doom
 
 artistUrl":"https://itunes.apple.com/gb/artist/mf-doom/id3864756"
 MF DOOM's artist ID lives in the associative array key/hash-key name of "artistUrl".
