@@ -5,7 +5,7 @@ MF DOOM's artist ID lives in the associative array key/hash-key name of "artistU
 
 Once we know the artist ID, we should be able to reliably figure out the artist's albums set, and also infer maybe the album which 
 
---
+===
 
 We can also work out the artist ID based on our iTunes RSS/XML/JSON, eg: Taylor Swift's ID is here:
 http://itunes.apple.com/us/rss/topsongs/limit=100/xml
