@@ -1,0 +1,17 @@
+1 x * Install iTunes, use jsmith account noted via Keepass
+1 x * Install Fiddler2, a HTTP packet inspection tool
+x * Reverse engineer how iTunes presents the 100 songs for a specific region
+* Figure out their own internal API, and handshake required to pretend you're an Apple licensed developer
+
+1 x * Research your existing competitors, under the iTunes niche, via Google Play / play.google.com
+
+1 x * Locate their common themes and services/features they offer, and download their apps. (so we can later
+reverse engineer them via our mobile)
+
+1 Figure out what functionality we can offer to our end users, and where we can gather this content from (so we can present it in a mechanised form)
+
+Figure out how to wire-frame our user interface, grasp how Apple themes its software, learn basic user experience knowledge, including development of a (clean) UI for our app.
+
+---
+
+Browse Amazon UK's top-10 C# books and download all ISBN and edition specific versions of those books in queriable form.

@@ -1,0 +1,39 @@
+Album ID: 938032038
+https://itunes.apple.com/us/album/uptown-funk-feat.-bruno-mars/id938032038?i=938032045&ign-mpt=uo%3D2
+
+Track ID: 938032045
+See above
+
+Artist ID:
+https://itunes.apple.com/us/artist/mark-ronson/id1806833
+
+All of these are region based IDs
+
+--
+
+Genre ID is inferred via:
+<category im:id="14" term="Pop" scheme="https://itunes.apple.com/us/genre/music-pop/id14?uo=2" label="Pop"/>
+
+We can also trust the term attribute, as it reflects the genre's title
+
+This may also be regional based
+
+--
+
+Demostration of another artist who has released a single (track) which is represented as an album in iTunes:
+https://itunes.apple.com/nz/album/heart-skips-beat-feat.-chiddy/id526747385
+
+Note his artist ID ending in *022
+
+--
+
+Not every artist has their own region specific ID, example:
+https://itunes.apple.com/nz/artist/olly-murs/id382815022
+https://itunes.apple.com/us/artist/olly-murs/id382815022
+
+Note he shares the same ID in US and New Zealand
+
+--
+
+The release date is stored in epoch form:
+<im:releaseDate label="November 10, 2014">2014-11-10T00:00:00-07:00</im:releaseDate

@@ -1,0 +1,15 @@
+Locate all artists who have a relationship in the US
+Avoid using internal IDs, opt for "friendly"" keys, such as "US" for US US (internal ID of "2")
+
+--
+
+List all American artists albums and their album tracks, and note the region and genre
+
+--
+
+SELECT a.name AS artist_name, t.title AS track_title FROM region AS r
+INNER JOIN artist AS a ON (r.id = a.region_id)
+INNER JOIN genre AS g ON ( g.region_id = r.id AND g.title = 'pop')
+INNER JOIN album AS al ON ( al.artist_id = a.id AND al.artist_region_id = a.region_id AND al.genre_id = g.id )
+INNER JOIN track AS t ON ( t.album_id = al.id AND t.album_artist_id = al.artist_id AND t.album_artist_region_id = al.artist_region_id )
+WHERE r.country_code = 'us'

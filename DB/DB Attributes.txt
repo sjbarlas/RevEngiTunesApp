@@ -1,0 +1,21 @@
+Artist
+	Name
+	DOB
+	Originates
+	Bio
+Album
+	title
+	release_date
+Track(s)
+	title - May have a custom name
+	genre_id - One or more genres
+
+Coverart - One or more instances
+	Width
+	Height
+	URL
+
+(1=Bob,1=UK)
+(2=Taylor,1=UK)
+
+Recall?

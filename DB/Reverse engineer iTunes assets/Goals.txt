@@ -1,0 +1,15 @@
+* Locate where iTunes stores artist's profile images, as shown in iTunes:
+	See: itunes01-artist-header-image
+		Use the Fiddler2 session saved as itunes01-artist-header-image.saz to see a iTunes trace/log
+			Infer URLs based on what you gleaned iTunes did (that is, what URLs were loaded and why (JSON))
+
+* Infer how iTunes knew what colours to use for the interface (Taylor Swift had some sort of peach/salmon vibes for the UI)
+* Locate all 
+possible graphic asset sizes available to us
+
+* Locate the artist location where iTunes stores the presentation page for a given artist (based on their iTunes artist ID)
+* Locate all possible album IDs for a given artist
+
+--
+
+Write notes on what database relationships need to be setup (tables and their attributes). I am expecting at least one table for the graphic assets.
